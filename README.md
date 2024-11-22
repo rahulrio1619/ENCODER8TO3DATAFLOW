@@ -2,7 +2,8 @@ NAME: RAHUL S
 
 DATE:22/11/2024
 
-### ENCODER 8TO3 DATAFLOW Modelling
+
+### EXP 5 ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
